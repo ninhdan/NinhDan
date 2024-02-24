@@ -25,7 +25,7 @@
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
 <img width="12" />
-<img src="[url=https://cdnlogo.com/logo/tailwind-css_81652.html][img]https://www.cdnlogo.com/logos/t/58/tailwind-css.svg[/img][/url]" height="40" alt="tailwindcss logo" />
+<img src="https://www.cdnlogo.com/logos/t/58/tailwindcss.svg"" height="40" alt="tailwindcss logo" />
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" height="40" alt="bootstrap logo" />
 <img width="12" />
