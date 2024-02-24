@@ -36,5 +36,8 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Blazor.png" height="40" />
 <img width="12" />
 <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" height="40" />
+  <img width="12" />
+<img src="https://www.cdnlogo.com/logos/m/78/mysql.svg" height="40" />
+
 
 </div>
