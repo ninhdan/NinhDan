@@ -18,8 +18,9 @@ I find that the freedom to explore and experiment is what drives the most exciti
 ### Skills
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,wasm,bootstrap,tailwind,cs,dotnet,git,github,go,postgres,mysql,sqlite,azure,postman,visualstudio,vscode,figma)](https://skillicons.dev)
 ### GitHub Stats
+![ninhdan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ninhdan&theme=blueberry&show_icons=true&hide_border=false&layout=compact)
+![ninhdan's Stats](https://github-readme-stats.vercel.app/api?username=ninhdan&theme=blueberry&show_icons=true&hide_border=false&count_private=true)
 
 <p align="center">
-  <img src=""/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ninhdan&theme=blueberry&hide_border=fals"/>
 </p>
-
