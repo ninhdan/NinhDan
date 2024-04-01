@@ -6,12 +6,12 @@
 
 ### 💻 About Me:
 - **Passion for Development:** I've been enthusiastically creating and debugging code since 2020.
-- **Current Focus:** Sharpening my skills in C# to prepare for a future in software engineering.
+- **Current Focus:** Sharpening my skills in .NET to prepare for a future in software engineering.
 - **Career Aspiration:** To become a software engineer who contributes innovative solutions to the tech world.
 - **Fun Fact:** I believe that freedom is the secret ingredient to creativity and innovation.
 
 ### 🎯 Goals:
-My immediate goal is to harness my C# knowledge in practical applications, while my long-term vision is to shape the future of technology as a skilled software engineer.
+My immediate goal is to harness my .NET knowledge in practical applications, while my long-term vision is to shape the future of technology as a skilled software engineer.
 
 ### 🌟 Fun Fact:
 I find that the freedom to explore and experiment is what drives the most exciting breakthroughs in tech!
