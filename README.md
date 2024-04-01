@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm Ninh Dan, a final year software development student from Vietnam with a knack for turning challenges into opportunities for growth.</p>
+<h2 align="center">I'm Ninh Dan, a final year software development student from Vietnam with a knack for turning challenges into opportunities for growth.</h2>
 
 ### 💻 About Me:
 - **Passion for Development:** I've been enthusiastically creating and debugging code since 2020.
