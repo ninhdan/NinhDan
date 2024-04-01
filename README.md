@@ -25,4 +25,4 @@ I find that the freedom to explore and experiment is what drives the most exciti
 </p>
 
 ### Skills
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,cs,bootstrap,tailwind,azure,dotnet,figma,git,github,go,postgres,mysql,postman,visualstudio,vscode&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,cs,dotnet,git,github,go,postgres,mysql,azure,postman,visualstudio,vscode,figma)](https://skillicons.dev)
