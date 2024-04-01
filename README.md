@@ -4,20 +4,6 @@
 
 <p align="left">My name is NinhDan and I'm a passionate software developer (final year student), from Vietnam</p>
 
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning C#<br>🎯 Goals: Software engineer<br>🎲 Fun fact: Freedom</p>
-
-###
-
-<h2 align="left">I code with</h2>
-
-###
-
 ### 👋 About Me:
 I'm a passionate young developer with a keen interest in the .NET ecosystem. I thrive on exploring new technologies and building robust applications with .NET. My journey so far has been filled with learning and coding, and I'm always on the lookout for innovative ways to solve problems.
 
@@ -29,7 +15,9 @@ I love collaborating on projects that challenge the status quo and push the boun
 
 ### 🚀 Future Goals:
 To evolve into a software engineer role where I can contribute to large-scale projects and make a positive impact on the tech community. I'm excited about the journey ahead and the challenges it will bring!
+###
 
+<h2 align="left">I code with</h2>
 
 <div align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
