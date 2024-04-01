@@ -22,6 +22,8 @@ I find that the freedom to explore and experiment is what drives the most exciti
 ![ninhdan's Stats](https://github-readme-stats.vercel.app/api?username=ninhdan&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
 ![ninhdan's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ninhdan&theme=tokyonight&hide_border=false)
 
-
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ninhdan&theme=tokyonight&hide_border=false"/>
+</p>
 
 
