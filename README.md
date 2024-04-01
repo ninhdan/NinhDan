@@ -31,7 +31,8 @@ I find that the freedom to explore and experiment is what drives the most exciti
 
 ###
 <h2 align="left">Skills</h2>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,py,git,cpp,cs,c,html,react,next,jquery,css,scss,tailwind,bootstrap,mui,vite,nodejs,express,nest,mongodb,mysql,postgres,supabase,redis,django,aws,docker,linux,figma,gcp,discord,cloudflare,photoshop)](https://skillicons.dev)
+
 <div align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
 <img width="12" />
