@@ -4,6 +4,8 @@
 
 <p align="left">I am an enthusiastic software developer from Vietnam, with a passion for problem-solving and tech programming! </p>
 
+![ninhdan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ninhdan&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
+
 ### 💻 About Me:
 - **Passion for Development:** I've been enthusiastically creating and debugging code since 2020.
 - **Current Focus:** Sharpening my skills in .NET to prepare for a future in software engineering.
