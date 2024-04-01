@@ -1,4 +1,4 @@
-<h1 align="left">Hey 👋 I'm Ninh Dan!</h3>
+<h1 align="left">Hi 👋 I'm Ninh Dan!</h3>
 
 ###
 <p align="left">I am an enthusiastic software developer from Vietnam, with a passion for problem-solving and tech programming! </p>
