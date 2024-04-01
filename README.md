@@ -24,7 +24,7 @@ I find that the freedom to explore and experiment is what drives the most exciti
 </p>
 ![ninhdan's Stats](https://github-readme-stats.vercel.app/api?username=ninhdan&theme=default&show_icons=true&hide_border=false&count_private=true)
 ![ninhdan's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ninhdan&theme=default&hide_border=false)
-###
+
 
 <h2 align="left">I code with</h2>
 
