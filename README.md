@@ -5,6 +5,8 @@
 <p align="left">I am an enthusiastic software developer from Vietnam, with a passion for problem-solving and tech programming! </p>
 
 ![ninhdan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ninhdan&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
+![ninhdan's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ninhdan&theme=tokyonight&hide_border=false)
+![ninhdan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ninhdan&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
 
 ### 💻 About Me:
 - **Passion for Development:** I've been enthusiastically creating and debugging code since 2020.
