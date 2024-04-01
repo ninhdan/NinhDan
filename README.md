@@ -18,6 +18,19 @@
 
 ###
 
+### 👋 About Me:
+I'm a passionate young developer with a keen interest in the .NET ecosystem. I thrive on exploring new technologies and building robust applications with .NET. My journey so far has been filled with learning and coding, and I'm always on the lookout for innovative ways to solve problems.
+
+### 🌱 Currently Learning:
+I'm honing my skills in C#, ASP.NET, and related frameworks, aiming to deepen my understanding of software architecture and design patterns. My dream is to become a software engineer who not only writes code but also shapes the future of technology by creating impactful software solutions.
+
+### 💡 Looking to Collaborate:
+I love collaborating on projects that challenge the status quo and push the boundaries of what's possible. If you're on a similar path or have a project in mind that aligns with my skills and passions, let's connect and make something great together!
+
+### 🚀 Future Goals:
+To evolve into a software engineer role where I can contribute to large-scale projects and make a positive impact on the tech community. I'm excited about the journey ahead and the challenges it will bring!
+
+
 <div align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
 <img width="12" />
