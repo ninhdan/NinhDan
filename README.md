@@ -16,7 +16,7 @@ My immediate goal is to harness my .NET knowledge in practical applications, whi
 I find that the freedom to explore and experiment is what drives the most exciting breakthroughs in tech!
 
 ### Skills
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,wa,bootstrap,tailwind,cs,dotnet,git,github,go,postgres,mysql,azure,postman,visualstudio,vscode,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,wasm,bootstrap,tailwind,cs,dotnet,git,github,go,postgres,mysql,ksqlite,azure,postman,visualstudio,vscode,figma)](https://skillicons.dev)
 ### GitHub Stats
 
 ![ninhdan's Stats](https://github-readme-stats.vercel.app/api?username=ninhdan&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
