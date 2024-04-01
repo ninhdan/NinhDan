@@ -17,7 +17,6 @@ My immediate goal is to harness my .NET knowledge in practical applications, whi
 ### 🌟 Fun Fact:
 I find that the freedom to explore and experiment is what drives the most exciting breakthroughs in tech!
 
-###
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ninhdan&theme=default&show_icons=true&hide_border=false&layout=compact" />
