@@ -24,7 +24,5 @@ I find that the freedom to explore and experiment is what drives the most exciti
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ninhdan&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" />
 </p>
 
-
 ### Skills
-<hr/>
-[![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,cs&perline=3)](https://skillicons.dev)
