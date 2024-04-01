@@ -15,6 +15,9 @@ My immediate goal is to harness my .NET knowledge in practical applications, whi
 ### 🌟 Fun Fact:
 I find that the freedom to explore and experiment is what drives the most exciting breakthroughs in tech!
 
+### Skills
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,cs,dotnet,git,github,go,postgres,mysql,azure,postman,visualstudio,vscode,figma)](https://skillicons.dev)
+<img src="https://devblogs.microsoft.com/aspnet/wp-content/uploads/sites/16/2019/04/BrandBlazor_nohalo_1000x.png" height="40" alt="Blazor logo" />
 ### GitHub Stats
 
 ![ninhdan's Stats](https://github-readme-stats.vercel.app/api?username=ninhdan&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
@@ -24,5 +27,3 @@ I find that the freedom to explore and experiment is what drives the most exciti
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ninhdan&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" />
 </p>
 
-### Skills
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,cs,dotnet,git,github,go,postgres,mysql,azure,postman,visualstudio,vscode,figma)](https://skillicons.dev)
