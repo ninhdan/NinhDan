@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋 I'm Ninh Dan!</h3>
+<h1 align="left">Hey 👋 I'm Ninh Dan!</h3>
 
 ###
 
@@ -20,6 +20,8 @@ My immediate goal is to harness my .NET knowledge in practical applications, whi
 ### 🌟 Fun Fact:
 I find that the freedom to explore and experiment is what drives the most exciting breakthroughs in tech!
 
+###
+
 ![ninhdan's Stats](https://github-readme-stats.vercel.app/api?username=ninhdan&theme=default&show_icons=true&hide_border=false&count_private=true)
 ![ninhdan's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ninhdan&theme=default&hide_border=false)
 
@@ -27,7 +29,7 @@ I find that the freedom to explore and experiment is what drives the most exciti
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ninhdan&theme=default&show_icons=true&hide_border=false&layout=compact" />
 </p>
 
-
+###
 <h2 align="left">I code with</h2>
 
 <div align="left">
@@ -50,7 +52,6 @@ I find that the freedom to explore and experiment is what drives the most exciti
 <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" height="40" />
   <img width="12" />
 <img src="https://www.cdnlogo.com/logos/m/78/mysql.svg" height="40" />
-
 
 
 </div>
