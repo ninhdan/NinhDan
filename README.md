@@ -1,8 +1,8 @@
-<h1 align="left">Hey 👋 I'm Ninh Dan!</h1>
+<h3 align="left">Hey 👋 I'm Ninh Dan!</h3>
 
 ###
 
-<h2 align="center">I am an enthusiastic software developer from Vietnam, with a passion for problem-solving and tech programming! </h2>
+<p align="center">I am an enthusiastic software developer from Vietnam, with a passion for problem-solving and tech programming! </p>
 
 ### 💻 About Me:
 - **Passion for Development:** I've been enthusiastically creating and debugging code since 2020.
