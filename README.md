@@ -1,12 +1,7 @@
 <h1 align="left">Hey 👋 I'm Ninh Dan!</h3>
 
 ###
-
 <p align="left">I am an enthusiastic software developer from Vietnam, with a passion for problem-solving and tech programming! </p>
-
-
-
-
 
 ### 💻 About Me:
 - **Passion for Development:** I've been enthusiastically creating and debugging code since 2020.
@@ -31,5 +26,5 @@ I find that the freedom to explore and experiment is what drives the most exciti
 
 
 ### Skills
-
+<hr/>
 [![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
