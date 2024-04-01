@@ -41,5 +41,11 @@ I find that the freedom to explore and experiment is what drives the most exciti
   <img width="12" />
 <img src="https://www.cdnlogo.com/logos/m/78/mysql.svg" height="40" />
 
+### Badges
 
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/phamleduy04.png)](https://tryhackme.com/p/phamleduy04)
+
+![My GitHub Lang Stats](https://github-stats.agentbot.xyz/api/top-langs/?username=phamleduy04&theme=tokyonight&layout=compact)
+
+![My GitHub Stats](https://github-stats.agentbot.xyz/api?username=phamleduy04&count_private=true&show_icons=true&theme=tokyonight)
 </div>
