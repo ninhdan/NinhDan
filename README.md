@@ -18,12 +18,10 @@ I find that the freedom to explore and experiment is what drives the most exciti
 ### Skills
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,wasm,bootstrap,tailwind,cs,dotnet,git,github,go,postgres,mysql,ksqlite,azure,postman,visualstudio,vscode,figma)](https://skillicons.dev)
 ### GitHub Stats
-
+![ninhdan's langulage Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ninhdan&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
 ![ninhdan's Stats](https://github-readme-stats.vercel.app/api?username=ninhdan&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
 ![ninhdan's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ninhdan&theme=tokyonight&hide_border=false)
-![ninhdan's langulage Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ninhdan&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ninhdan&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" />
-</p>
+
+
 
