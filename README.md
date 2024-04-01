@@ -1,9 +1,10 @@
-<h1 align="left">Hey 👋 Hi there!</h1>
+<h1 align="left">Hey 👋 I'm Ninh Dan!</h1>
 
 ###
 
-<h2 align="center">I'm Ninh Dan, a final year software development student from Vietnam with a knack for turning challenges into opportunities for growth.</h2>
-💻 About Me:
+<h2 align="center">I am an enthusiastic software developer from Vietnam, with a passion for problem-solving and tech programming! </h2>
+
+### 💻 About Me:
 - **Passion for Development:** I've been enthusiastically creating and debugging code since 2020.
 - **Current Focus:** Sharpening my skills in .NET to prepare for a future in software engineering.
 - **Career Aspiration:** To become a software engineer who contributes innovative solutions to the tech world.
