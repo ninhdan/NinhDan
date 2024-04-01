@@ -16,6 +16,8 @@ My immediate goal is to harness my C# knowledge in practical applications, while
 ### 🌟 Fun Fact:
 I find that the freedom to explore and experiment is what drives the most exciting breakthroughs in tech!
 
+###
+
 <h2 align="left">I code with</h2>
 
 <div align="left">
